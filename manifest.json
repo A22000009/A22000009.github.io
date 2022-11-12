@@ -1,0 +1,20 @@
+{
+  "name": "App Grosir Gaming",
+  "short_name": "GG",
+  "description": "Membuat Aplikasi Grosir Gaming sederhana dengan javascript PWA ",
+  "icons": [{
+      "src": "assets/images/console.png",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/console.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
