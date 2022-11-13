@@ -1,0 +1,27 @@
+  body {
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  .table th {
+    background-color: #53c4f9 !important;
+  }
+
+  .wrap {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  th {
+    font-size: 17px;
+  }
+
+  td {
+    font-size: 17px;
+  }
